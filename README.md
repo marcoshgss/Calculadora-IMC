@@ -8,6 +8,8 @@ O Índice de Massa Corporal (IMC) é uma das principais ferramentas, adotada inc
 ## 🔥 Introdução
 Como forma de treino, realizei esse projeto de calculadora de IMC. Usei muito o JavaScript para finalizar o projeto ao todo. Nesse projeto, existe dois campos para serem preenchido (altura, peso) e dois botões, um para executar o cálculo e outro para limpar os valores.
 
+Após calcular, irá aparecer outra tela com o resultado obtido. Vai ser mostrado o índice da massa corporal e nível de magreza, sobrepeso e obesidade. 
+
 ### ⚙️ Pré-requisitos
 
 Para poder abrir/rodar esse projeto na sua máquina, só é preciso baixar o repositório e abrir o arquivo "index.html". Assim, o site irá aparecer no seu navegador normalmente.
